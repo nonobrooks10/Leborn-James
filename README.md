@@ -1,7 +1,8 @@
 # Leborn-James
 水库的水位监测与异常报警系统
 项目简介
-Django+MySQL 开发的城市内涝水位识别系统，当前为第一周基础版，完成架构、用户模块与系统骨架。
+Django+MySQL 开发的水库的水位监测与异常报警系统[测试文件.docx](https://github.com/user-attachments/files/28658789/default.docx)
+，当前为第一周基础版，完成架构、用户模块与系统骨架。
 
 环境
 Python 3.9+
